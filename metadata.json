@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Fashion Academy AI",
+  "description": "A minimalist, white and gold themed voice AI for a fashion academy using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
